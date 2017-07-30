@@ -1,8 +1,8 @@
 <%--
   Created by IntelliJ IDEA.
   User: Gaurab
-  Date: 2017-07-26
-  Time: 03:30
+  Date: 2017-07-30
+  Time: 08:27
 --%>
 
 <%@ page contentType="text/html;charset=UTF-8" %>
@@ -14,7 +14,6 @@
 
 <body>
 
-
 <section class="engine"><a rel="external" href="https://mobirise.com">Mobirise</a></section><section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar" id="header1-e" style="background-image: url(../assets/images/img_1281.JPG);">
 
 
@@ -25,21 +24,10 @@
 
 </section>
 
-<section  id="msg-box4-f" style="background-color: rgb(242, 242, 242);  padding-top:40px">
+<section class="mbr-section" id="msg-box4-f" style="background-color: rgb(242, 242, 242); padding-top: 120px; padding-bottom: 120px;">
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
-                <h3 class="mbr-section-title display-2">Our Services</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-            </div>
-        </div>
-</section>
-<section class="mbr-section" id="msg-box4-f" style="background-color: rgb(242, 242, 242);">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-5">
-                <h3 class="mbr-section-title display-2">Services & Facilities:</h3>
-                <p>
+            <div class="mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7" style="width: 50%;">
                 <ul>
                     <li>-- Free WIFI Access</li>
                     <li>-- Souvenir shop</li>
@@ -52,28 +40,18 @@
                     <li>-- Children playground.</li>
                     <li>-- Airport Pickup - Drop on request.</li>
                 </ul>
-            </p>
-            </div>
-
-
-
-            <div class="col-md-5">
-                <h3 class="mbr-section-title display-2">Accommodation:</h3>
-                <ul>
-                    <li>-- Mountain view Rooms <br>with attached bath tub.</li>
-                </ul>
-                <h3 class="mbr-section-title display-2">Restaurant & Bar:</h3>
-                <ul>
-                    <li>-- Dining hall</li>
-                    <li>-- Dart Bar</li>
-                    <li>-- Bar-b-que Garden</li>
-                    <li>-- Kafal chautari beer garden</li>
-                    <li>---- Picnic arrangement with full catering service</li>
-                </ul>
             </div>
         </div>
     </div>
-
+</section>
+<section class="mbr-section" id="msg-box4-f" style="background-color: rgb(242, 242, 242);">
+    <div class="container">
+        <div class="row">
+            <div class="mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7" style="width: 50%;">
+                <div class="mbr-figure"><img src="${resource(dir: 'assets/images', file:'2-1400x583.jpg')}"></div>
+            </div>
+        </div>
+    </div>
 </section>
 
 </body>

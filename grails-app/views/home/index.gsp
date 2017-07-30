@@ -10,12 +10,8 @@
 <head>
     <meta name="layout" content="main"/>
     <title>Kulekhani Panaroma Resort</title>
-
-
 </head>
-
 <body>
-
 <section class="engine">
     <a rel="external" href="https://mobirise.com">mobirise.com</a></section>
 <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000" id="slider-1">

@@ -16,7 +16,7 @@
 
 <body>
 
-<section class="engine"><a rel="external" href="https://mobirise.com">Mobirise</a></section><section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar" id="header1-e" style="background-image: url(assets/images/IMG_1281.jpg);">
+<section class="engine"><a rel="external" href="https://mobirise.com">Mobirise</a></section><section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar" id="header1-e" style="background-image: url(../assets/images/img_1281.JPG);">
 
 
 
@@ -34,7 +34,7 @@
             <div class="mbr-table-md-up">
 
                 <div class="mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size" style="width: 50%;">
-                    <div class="mbr-figure"><img src="assets/images/2-1400x583.jpg"></div>
+                    <div class="mbr-figure"><img src="${resource(dir: 'assets/images', file:'2-1400x583.jpg')}"></div>
                 </div>
 
 
@@ -65,7 +65,7 @@
             <div class="mbr-table-md-up">
 
                 <div class="mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size" style="width: 50%;">
-                    <div class="mbr-figure"><img src="assets/images/2-1400x583.jpg"></div>
+                    <div class="mbr-figure"><img src="${resource(dir: 'assets/images', file:'2-1400x583.jpg')}"></div>
                 </div>
 
 
