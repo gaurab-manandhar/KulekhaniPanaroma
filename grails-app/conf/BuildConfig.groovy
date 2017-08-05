@@ -32,6 +32,8 @@ grails.project.dependency.resolution = {
         mavenLocal()
         mavenCentral()
 
+        maven { url "http://dl.bintray.com/stefanogualdi/plugins" }
+
         // uncomment these (or add new ones) to enable remote dependency resolution from public Maven repositories
         //mavenRepo "http://snapshots.repository.codehaus.org"
         //mavenRepo "http://repository.codehaus.org"
@@ -42,13 +44,16 @@ grails.project.dependency.resolution = {
     dependencies {
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes e.g.
 
-        // runtime 'mysql:mysql-connector-java:5.1.22'
+         runtime 'mysql:mysql-connector-java:5.1.22'
+        compile "org.grails.plugins:ckeditor:4.5.9.0"
     }
 
     plugins {
         runtime ":hibernate:$grailsVersion"
         runtime ":jquery:1.8.3"
         runtime ":resources:1.2"
+
+        compile ":ckeditor:4.5.4.1"
 
         // Uncomment these (or add new ones) to enable additional resources capabilities
         //runtime ":zipped-resources:1.0"
