@@ -22,7 +22,12 @@
                     <li data-app-prevent-settings="" data-target="#slider-1" data-slide-to="0" class="active"></li><li data-app-prevent-settings="" data-target="#slider-1" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider-1" class="" data-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner" role="listbox">
+<<<<<<< HEAD
                     <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(${resource(dir:'assets/images', file: '1-2000x833.jpg')});">
+=======
+                    %{--<div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(../assets/images/1-2000x833.jpg);">--}%
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(${resource(dir: 'assets/images', file: '1-2000x833.jpg')});">
+>>>>>>> 2d0b10ed2b872b98832abc4c02c7d8592f62e8b2
                         <div class="mbr-table-cell">
 
                             <div class="container-slide container">
@@ -37,7 +42,11 @@
                                 </div>
                             </div>
                         </div>
+<<<<<<< HEAD
                     </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(${resource(dir:'assets/images', file: '2-2000x833.jpg')});">
+=======
+                    </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(${resource(dir: 'assets/images', file: '2-2000x833.jpg')});">
+>>>>>>> 2d0b10ed2b872b98832abc4c02c7d8592f62e8b2
                     <div class="mbr-table-cell">
 
                         <div class="container-slide container">
@@ -52,7 +61,11 @@
                             </div>
                         </div>
                     </div>
+<<<<<<< HEAD
                 </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(${resource(dir:'assets/images', file: '4-2000x833.jpg')});">
+=======
+                </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(${resource(dir: 'assets/images', file: '4-2000x833.jpg')});">
+>>>>>>> 2d0b10ed2b872b98832abc4c02c7d8592f62e8b2
                     <div class="mbr-table-cell">
 
                         <div class="container-slide container">
